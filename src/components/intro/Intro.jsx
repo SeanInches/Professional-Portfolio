@@ -21,6 +21,10 @@ export default function Intro() {
         </div>
       </div>
       <div className="right">
+        <h3>
+          Soon to be graduate from the Georgia Tech Bootcamp shifting from the
+          medical field to the wonderful world of code!
+        </h3>
         <div className="wrapper">
           <h1>Full Stack Developer</h1>
           <h2>Portfolio</h2>

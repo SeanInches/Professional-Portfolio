@@ -11,12 +11,14 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
           </a>
           <a href="https://github.com/SeanInches">
             <div className="itemContainer">
-              <img src="assets/icons8-github-64.png" width={"90%"} />
+              <img src="assets/icons8-github-64.png" width={"78%"} />
             </div>
           </a>
-          <div className="itemContainer">
-            <img src="assets/icons8-linkedin-64.png" width={"90%"} />
-          </div>
+          <a href="https://www.linkedin.com/in/sean-inches-461263222/">
+            <div className="itemContainer">
+              <img src="assets/icons8-linkedin-64.png" width={"78%"} />
+            </div>
+          </a>
         </div>
         <div className="right">
           <div className="hamburger" onClick={() => setMenuOpen(!menuOpen)}>

@@ -14,12 +14,12 @@ export default function Portfolio() {
       title: "Text Editor",
     },
     {
-      id: "placeholder",
-      title: "Placeholder",
+      id: "socialnetworkapi",
+      title: "Social Network API",
     },
     {
-      id: "placeholder",
-      title: "Placeholder",
+      id: "hive",
+      title: "HIVE",
     },
   ];
   return (

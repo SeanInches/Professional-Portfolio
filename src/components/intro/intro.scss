@@ -28,6 +28,7 @@
   }
   .right {
     flex: 0.5;
+    overflow: hidden;
 
     .wrapper {
       width: 100%;
@@ -43,6 +44,9 @@
       }
       h2 {
         font-size: 35px;
+      }
+      h3 {
+        font-size: 25px;
       }
 
       span {
