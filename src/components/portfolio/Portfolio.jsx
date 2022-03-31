@@ -36,22 +36,30 @@ export default function Portfolio() {
         ))}
       </ul>
       <div className="container">
-        <div className="item">
-          <img src="assets/icons8-code-folder-64.png" alt="why no work" />
-          <h3>E-Commerce Back End</h3>
-        </div>
-        <div className="item">
-          <img src="assets/icons8-code-folder-64.png" alt="why no work" />
-          <h3>Text Editor</h3>
-        </div>
-        <div className="item">
-          <img src="assets/icons8-code-folder-64.png" alt="why no work" />
-          <h3>placeholder</h3>
-        </div>
-        <div className="item">
-          <img src="assets/icons8-code-folder-64.png" alt="why no work" />
-          <h3>placeholder</h3>
-        </div>
+        <a href="https://github.com/SeanInches/E-Commerce-Back-End">
+          <div className="item">
+            <img src="assets/icons8-code-folder-64.png" alt="why no work" />
+            <h3>E-Commerce Back End</h3>
+          </div>
+        </a>
+        <a href="https://github.com/SeanInches/Text-Editor">
+          <div className="item">
+            <img src="assets/icons8-code-folder-64.png" alt="why no work" />
+            <h3>Text Editor</h3>
+          </div>
+        </a>
+        <a href="https://github.com/SeanInches/Social-Network-API">
+          <div className="item">
+            <img src="assets/icons8-code-folder-64.png" alt="why no work" />
+            <h3>Social Network API</h3>
+          </div>
+        </a>
+        <a href="https://github.com/jgarner828/Georgia-Tech--Music-Search-Project">
+          <div className="item">
+            <img src="assets/icons8-code-folder-64.png" alt="why no work" />
+            <h3>Hive! A Music Social Network</h3>
+          </div>
+        </a>
       </div>
     </div>
   );

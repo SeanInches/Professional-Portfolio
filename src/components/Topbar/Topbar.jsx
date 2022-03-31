@@ -9,13 +9,13 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
           <a href="#intro" className="logo">
             Sean Inches
           </a>
+          <a href="https://github.com/SeanInches">
+            <div className="itemContainer">
+              <img src="assets/icons8-github-64.png" width={"90%"} />
+            </div>
+          </a>
           <div className="itemContainer">
-            <Person className="icon" />
-            <span>+44 924 12 74</span>
-          </div>
-          <div className="itemContainer">
-            <Mail className="icon" />
-            <span>seanminches@gmail.com</span>
+            <img src="assets/icons8-linkedin-64.png" width={"90%"} />
           </div>
         </div>
         <div className="right">
