@@ -21,30 +21,10 @@ https://seaninches.github.io/Professional-Portfolio/
 
 https://github.com/SeanInches/Professional-Portfolio
 
-## Installation
-
--
-
-## Usage
-
--
-
-## Credits
-
--
-
 ## Badges
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SeanInches&show_icons=true)  
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanInches&theme=blue-green)
-
-## Contribute
-
--
-
-## Tests
-
--
 
 ## Questions?
 
