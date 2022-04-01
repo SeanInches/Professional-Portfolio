@@ -17,7 +17,10 @@ function App() {
       <div className="sections">
         <Intro />
         <Portfolio />
+
         <Contact />
+        <Works />
+        <Testimonials />
       </div>
     </div>
   );
