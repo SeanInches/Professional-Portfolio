@@ -19,8 +19,6 @@ function App() {
         <Portfolio />
 
         <Contact />
-        <Works />
-        <Testimonials />
       </div>
     </div>
   );
